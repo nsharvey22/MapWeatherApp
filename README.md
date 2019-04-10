@@ -1,5 +1,6 @@
-Engineering Test App for AgEagle
- Made by: Nicholas Harvey
+Engineering Test App for AgEagle 
+
+Made by: Nicholas Harvey
 
 Check out the app running at https://nsharvey22.github.io/MapWeatherApp/
 or
